@@ -1,2 +1,2 @@
-# work_env
-Configure development environment for my Linux 
+# Bookcase
+Various ebooks for technology and others.
