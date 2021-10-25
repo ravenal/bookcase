@@ -1,16 +1,22 @@
-# Bookcase
+# Books
 Various ebooks for technology and others.
 
-### Useful sites
+#### 1. Linux books
 
-### https://github.com/shornado/mybook
+https://github.com/shornado/mybook
 
-Some books on linux
+#### 2. Program books
 
-### https://github.com/jyfc/ebook
+https://github.com/jyfc/ebook
 
-Some books on pragramming
+#### 3. Android books
 
-### https://github.com/hehonghui/android-tech-frontier
+https://github.com/hehonghui/android-tech-frontier
 
-Books on android
+# sites
+
+#### 1. Face Recognition
+
+https://github.com/ageitgey/face_recognition
+
+https://github.com/Lauszus/FaceRecognitionApp
